@@ -1,0 +1,5 @@
+.q4a/
+.venv/
+__pycache__/
+*.pyc
+.env
